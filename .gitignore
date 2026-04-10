@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+.cache/
+coverage/
+.env
+.env.local
+.DS_Store
+*.log
+.git_backup/
+.vercel
+.env*.local
